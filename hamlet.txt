@@ -5587,4 +5587,4 @@ Speak loudly for him.
 Take up the bodies: such a sight as this
 Becomes the field, but here shows much amiss.
 Go, bid the soldiers shoot.
-A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off
+A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off{'stat': 'value', 'median': 3, 'stdev': 39.32073314588764, 'average': 9.851942490058121}
